@@ -8,15 +8,49 @@ main {
 
 
 .featured-case-study {
-   height: 400px;
+   height: 230px;
    overflow: hidden;
    position: relative;
 
-   .label {
+   &__image {
+      height: 230px;
+      background-size: cover;
+      background-position: center;
+   }
+
+   @include breakpoint(medium){
+      height: 400px;
+
+      &__image {
+         height: 400px;
+      }
+   }
+
+}
+
+
+.case-study-grid {
+   @include grid-row();
+}
+
+.case-study {
+   @include grid-column(12);
+   display: block;
+   height: 230px;
+   background-size: cover;
+   background-position: center;
+   position: relative;
+
+   @include breakpoint(medium){
+      @include grid-column(6);
+   }
+
+   &__label {
+      font-family: $font-family--bold;
       position: absolute;
       bottom: 0px;
       width: 100%;
-      background-color: rgba(0,0,0,0.5);
+      background-color: rgba(0,0,0,0.7);
       text-align: center;
       padding-top: 10px;
       height: 40px;
