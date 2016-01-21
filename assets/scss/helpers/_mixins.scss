@@ -7,3 +7,9 @@
   margin: 0px auto;
   width: 90%;
 }
+
+@mixin container-small() {
+  max-width: 1280px;
+  margin: 0px auto;
+  width: 90%;
+}

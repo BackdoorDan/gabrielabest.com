@@ -2,22 +2,36 @@
 // Config
 // --------------------------------------------------
 
-//
-// Colors
+
+
+
+
+// --------------------------------------------------
+// Fonts
 // --------------------------------------------------
 
 @font-face {
     font-family: BrandonText-Light;
-    src: url(assets/fonts/BrandonText-Light.otf);
+    src: url(../fonts/BrandonText-Light.otf);
 }
 @font-face {
     font-family: BrandonText-Regular;
-    src: url(assets/fonts/BrandonText-Regular.otf);
+    src: url(../fonts/BrandonText-Regular.otf);
 }
 @font-face {
     font-family: BrandonText-Medium;
-    src: url(assets/fonts/BrandonText-Medium.otf);
+    src: url(../fonts/BrandonText-Medium.otf);
 }
+ $font-family--light: 'BrandonText-Light', Helvetica, Roboto, Arial, sans-serif;
+ $font-family--regular: 'BrandonText-Regular', Helvetica, Roboto, Arial, sans-serif;
+ $font-family--bold: 'BrandonText-Medium', Helvetica, Roboto, Arial, sans-serif;
+
+
+
+
+//
+// Colors
+// --------------------------------------------------
 
 
 $black: #000;
@@ -26,3 +40,4 @@ $white: #fff;
 $cf-blue: #37BEAC;
 $cf-orange: #F67161;
 $cf-grey-light: #A3A3A3;
+$cf-grey-dark: #1B1B1B;

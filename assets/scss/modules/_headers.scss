@@ -1,0 +1,14 @@
+// --------------------------------------------------
+// Header Module
+// --------------------------------------------------
+.header {
+   padding-top: 60px;
+   background-color: transparent;
+   text-align: center;
+   height: 200px;
+   @include container();
+
+   @include breakpoint(medium){
+      padding-top: 50px;
+   }
+}

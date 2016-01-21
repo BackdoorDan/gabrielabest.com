@@ -44,7 +44,7 @@
 // 1. Global
 // ---------
 
-// $global-font-size: 100%;
+ $global-font-size: 100%;
 // $global-width: rem-calc(1200);
 // $global-lineheight: 1.5;
 // $primary-color: #2199e8;
@@ -57,11 +57,9 @@
 // $dark-gray: #8a8a8a;
 // $black: #0a0a0a;
 // $white: #fefefe;
-// $body-background: $white;
-// $body-font-color: $black;
- $body-font-family--light: 'BrandonText-Light', Helvetica, Roboto, Arial, sans-serif;
- $body-font-family--regular: 'BrandonText-Regular', Helvetica, Roboto, Arial, sans-serif;
- $body-font-family--bold: 'BrandonText-Medium', Helvetica, Roboto, Arial, sans-serif;
+ $body-background: $cf-grey-dark;
+ $body-font-color: $white;
+ $body-font-family: $font-family--regular;
 // $body-antialiased: true;
 // $global-margin: 1rem;
 // $global-padding: 1rem;
@@ -97,28 +95,28 @@
 // 4. Base Typography
 // ------------------
 
-// $header-font-family: $body-font-family;
+ $header-font-family: $font-family--light;
 // $header-font-weight: $global-weight-normal;
 // $header-font-style: normal;
 // $font-family-monospace: Consolas, 'Liberation Mono', Courier, monospace;
-// $header-sizes: (
-//   small: (
-//     'h1': 24,
-//     'h2': 20,
-//     'h3': 19,
-//     'h4': 18,
-//     'h5': 17,
-//     'h6': 16,
-//   ),
-//   medium: (
-//     'h1': 48,
-//     'h2': 40,
-//     'h3': 31,
-//     'h4': 25,
-//     'h5': 20,
-//     'h6': 16,
-//   ),
-// );
+ $header-sizes: (
+   small: (
+     'h1': 20,
+     'h2': 20,
+     'h3': 19,
+     'h4': 18,
+     'h5': 17,
+     'h6': 16,
+   ),
+   medium: (
+     'h1': 30,
+     'h2': 40,
+     'h3': 31,
+     'h4': 25,
+     'h5': 20,
+     'h6': 16,
+   ),
+ );
 // $header-color: inherit;
 // $header-lineheight: 1.4;
 // $header-margin-bottom: 0.5rem;
