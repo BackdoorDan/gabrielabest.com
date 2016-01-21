@@ -4,6 +4,7 @@ _design
 
 
 # Stylesheet
+# Cant gitignore processed stylesheet because cloudcannon
 # assets/css/app.css
 
 # JavaScript
