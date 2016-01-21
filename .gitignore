@@ -4,7 +4,7 @@ _design
 
 
 # Stylesheet
-assets/css/app.css
+# assets/css/app.css
 
 # JavaScript
 assets/js/all.js
