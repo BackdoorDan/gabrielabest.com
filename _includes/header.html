@@ -1,6 +1,37 @@
-{% include head.html %}
+<nav class="nav">
+   <div class="nav__container">
 
-<header>
-<small><i>header</i></small>
-{% include components/nav-menu.html %}
-</header>
+      <div class="nav__mobile">
+         <div class="nav__mobile__logo">
+            <img src="assets/img/cf-logo-light.svg">
+         </div>
+
+         <div class="nav_mobile_expand">
+            <a class="nav-toggle-btn">
+               <div class="nav-toggle-btn__line nav-toggle-btn__line--top"></div>
+               <div class="nav-toggle-btn__line nav-toggle-btn__line--bottom"></div>
+            </a>
+         </div>
+
+      </div>
+
+      <div class="nav__default">
+         <div class="nav__default__logo">
+            <img src="assets/img/cf-logo-light.svg">
+         </div>
+
+         <div class="nav__default__login">
+            <img src="assets/img/nav--icon--login.svg">
+         </div>
+
+         <ul class="nav__default__links">
+            <li>Our Work</li>
+            <li>Contact</li>
+            <li>About Us</li>
+            <li>Blog</li>
+         </ul>
+
+      </div>
+
+   </div>
+</nav>
