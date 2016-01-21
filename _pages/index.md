@@ -8,7 +8,7 @@ featured_case_study:
    label: Iconic Disc case study
 case_studies:
    -  name: Cubicflow Case Study
-      image_path
+      image_path:
 
 ---
 
