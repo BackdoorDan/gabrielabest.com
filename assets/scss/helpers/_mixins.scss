@@ -13,3 +13,9 @@
   margin: 0px auto;
   width: 90%;
 }
+
+@mixin container-large() {
+  max-width: 1440px;
+  margin: 0px auto;
+  width: 100%;
+}

@@ -3,8 +3,24 @@
 // --------------------------------------------------
 
 main {
-  @include grid-row;
+  @include container-large();
+}
 
-  //other elements
-  //@include grid-column;
+
+.featured-case-study {
+   height: 400px;
+   overflow: hidden;
+   position: relative;
+
+   .label {
+      position: absolute;
+      bottom: 0px;
+      width: 100%;
+      background-color: rgba(0,0,0,0.5);
+      text-align: center;
+      padding-top: 10px;
+      height: 40px;
+      font-size: 80%;
+      color: $cf-blue;
+   }
 }
