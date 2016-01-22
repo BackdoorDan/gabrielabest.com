@@ -4,22 +4,23 @@ layout: index
 title: Homepage
 description: Page desc here
 featured_case_study:
-   image_path: /assets/img/portfolio/featured-iconic.jpg
-   label: ICONIC DISC case study
-   case_study_link: 
+  image_path: /assets/img/portfolio/featured-iconic.jpg
+  label: ICONIC DISC case study
+  case_study_link: ''
 case_studies:
-   -  image_path: /assets/img/portfolio/cs-tfc.jpg
-      label: THE FOOD CONCIERGE case study
-      case_study_link: 
-   -  image_path: /assets/img/portfolio/cs-halo.jpg
-      label: HALO case study
-      case_study_link: LINK HERE
+  - image_path: /assets/img/portfolio/cs-tfc.jpg
+    label: THE FOOD CONCIERGE case study
+    case_study_link: ''
+  - image_path: /assets/img/portfolio/cs-halo.jpg
+    label: HALO case study
+    case_study_link: LINK HERE
 snapshots:
-   -  thumbnail_path: 
-      fullsize_path: 
-      name:
-      
-      
+  - thumbnail_path: /assets/img/portfolio/more/amiotek-mark.jpg
+    fullsize_path: /assets/img/portfolio/more/fullsize/amiotek-mark.jpg
+    name: Amiotek Logotype
+  - thumbnail_path: /assets/img/portfolio/more/avectous-concept.jpg
+    fullsize_path: /assets/img/portfolio/more/fullsize/avectous-concept.jpg
+    name: Avectous Logo
 ---
 
 <header class="header header--dark">
