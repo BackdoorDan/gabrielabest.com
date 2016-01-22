@@ -3,9 +3,6 @@ title:                  "Site Title"
 description:            "Site description"
 google-verification:    ""
 
-2x_prefix: "@2x"
-med_prefix: "-med"
-large_prefix: "-large"
 # source:      .
 # destination: ./_site
 # plugins:     ./_plugins

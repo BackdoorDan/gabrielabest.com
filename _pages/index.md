@@ -4,7 +4,7 @@ layout: index
 title: Homepage
 description: Page desc here
 featured_case_study:
-  image_path: /assets/img/portfolio/featured-iconic.jpg
+  image_path: assets/img/portfolio/featured-iconic.jpg
   label: ICONIC DISC case study
   case_study_link: ''
 case_studies:
