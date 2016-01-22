@@ -4,17 +4,19 @@ layout: index
 title: Homepage
 description: Page desc here
 featured_case_study:
-   image_path: /assets/img/portfolio/featured-iconic.jpg
-   label: ICONIC DISC case study
-   case_study_link: 
+  image_name: /assets/img/portfolio/featured-iconic
+  image_extension: .jpg
+  label: ICONIC DISC case study
+  case_study_link: ''
 case_studies:
-   -  image_path: /assets/img/portfolio/cs-tfc.jpg
-      label: THE FOOD CONCIERGE case study
-      case_study_link: 
-   -  image_path: /assets/img/portfolio/cs-halo.jpg
-      label: HALO case study
-      case_study_link: LINK HERE
-
+  - image_name: /assets/img/portfolio/cs-halo
+    image_extension: .jpg
+    label: HALO case study
+    case_study_link: LINK HERE
+  - image_name: /assets/img/portfolio/cs-tfc
+    image_extension: .jpg
+    label: THE FOOD CONCIERGE case study
+    case_study_link: ''
 ---
 
 <header class="header header--dark">
