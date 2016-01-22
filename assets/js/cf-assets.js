@@ -2,13 +2,21 @@ if (!window.cf){
    window.cf = {};
 }
 
+ // DECLARE MODULE VARS
+ cf.g = {
+     smallBrowser: 600,
+     medBrowser: 1024,
+     largeBrowser: 1200
+ };
+
+
 // COUNTS IPADS AS MOBILE
 // SHOULD ONLY BE USED FOR PARALAX
 cf.isMobile = function(){
 
    var mobileDevice = /Android|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
 
-   if(cf.g.windowWidth < cf.g.smallBrowser || mobileDevice) {
+   if(window.innerWidth < cf.g.smallBrowser || mobileDevice) {
 
       return true;
    } else {
@@ -53,9 +61,9 @@ cf.assets = (function () {
     // OPTIONS
     var x2ext = '@2x';
 
-    var largeSuffix = '--large';
+    var largeSuffix = '-large';
 
-    var mediumSuffix = '--medium';
+    var mediumSuffix = '-med';
 
     var responsiveClass = '.cf-responsive';
 
@@ -143,6 +151,8 @@ cf.assets = (function () {
 
         replaceAssets(allResponsiveImages);
 
+       _resizeWatch();
+
         if (typeof callback === 'function') callback();
     };
 
@@ -155,7 +165,7 @@ cf.assets = (function () {
         for (var i = 0; i < assets.length; i++) {
 
 
-            var newSrc = getNewSrc(assets[i]);
+            var newSrc = _getNewSrc(assets[i]);
 
 
             // DO STUFF
@@ -172,7 +182,7 @@ cf.assets = (function () {
     };
 
 
-    var getNewSrc = function(asset){
+    var _getNewSrc = function(asset){
 
         var newSrc = '';
 
@@ -209,6 +219,13 @@ cf.assets = (function () {
             return newSrc;
 
     };
+
+
+   var _resizeWatch = function(){
+      window.addEventListener('resize', function(){
+         replaceAssets();
+      });
+   };
 
 
 

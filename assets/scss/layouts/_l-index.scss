@@ -60,3 +60,14 @@ main {
       color: $cf-blue;
    }
 }
+
+
+
+.shapshots-grid {
+   @include container-large();
+   @include grid-row();
+
+   &__snapshot {
+      @include grid-column(6);
+   }
+}

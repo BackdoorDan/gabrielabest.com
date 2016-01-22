@@ -14,6 +14,12 @@ case_studies:
    -  image_path: /assets/img/portfolio/cs-halo.jpg
       label: HALO case study
       case_study_link: LINK HERE
+snapshots:
+   -  thumbnail_path: 
+      fullsize_path: 
+      name:
+      
+      
 ---
 
 <header class="header header--dark">
@@ -25,10 +31,11 @@ case_studies:
 
 <main>
 
+
    {% if page.featured_case_study.image_path %}
    <div class="featured-case-study">
    
-      <div class="featured-case-study__image" style="background-image: url({{page.featured_case_study.image_path}})">
+      <div class="featured-case-study__image cf-responsive" style="background-image: url({{page.featured_case_study.image_path}})">
       </div>
 
       <div class="case-study__label">{{ page.featured_case_study.label}}</div>
@@ -37,7 +44,7 @@ case_studies:
    
    <div class="case-study-grid">
    {% for item in page.case_studies %}
-      <a href="{{item.case_study_link}}" class="case-study" style="background-image: url({{item.image_path}})">
+      <a href="{{item.case_study_link}}" class="case-study cf-responsive" style="background-image: url({{item.image_path}})">
          <div class="case-study__label">{{ item.label}}</div>
       </a>
    {% endfor %}
@@ -53,5 +60,12 @@ case_studies:
          Here's a few shapshots of our current projects to give you a good look at our visual style.
       </span>
    </header>
+   
+   <div class="shapshots-grid">
+   {% for item in page.snapshots %}
+      <a class="shapshots-grid__snapshot" style="background-image: {{item.thumbnail_path}}">
+      </a>
+   {% endfor %}
+   </div>
 
 </main>
