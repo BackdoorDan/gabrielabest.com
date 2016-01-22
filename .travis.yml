@@ -17,4 +17,4 @@ before_script:
   - bundle install
 
 after_success:
-    'curl --ftp-create-dirs -T _site/ -u $FTP_USER:$FTP_PASSWORD ftp://cubicflow.com/cf3test/'
+    'find _site -type f -exec curl -u $FTP_USER:$FTP_PASSWORD --ftp-create-dirs -T {} ftp://cubicflow.com/cf3test/{} \;'
