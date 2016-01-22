@@ -4,17 +4,14 @@ layout: index
 title: Homepage
 description: Page desc here
 featured_case_study:
-   image_name: /assets/img/portfolio/featured-iconic
-   image_extension: .jpg
+   image_path: /assets/img/portfolio/featured-iconic.jpg
    label: ICONIC DISC case study
    case_study_link: 
 case_studies:
-   -  image_name: /assets/img/portfolio/cs-tfc
-      image_extension: .jpg
+   -  image_path: /assets/img/portfolio/cs-tfc.jpg
       label: THE FOOD CONCIERGE case study
       case_study_link: 
-   -  image_name: /assets/img/portfolio/cs-halo
-      image_extension: .jpg
+   -  image_path: /assets/img/portfolio/cs-halo.jpg
       label: HALO case study
       case_study_link: LINK HERE
 
@@ -29,14 +26,10 @@ case_studies:
 
 <main>
 
-   {% if page.featured_case_study.image_name %}
+   {% if page.featured_case_study.image_path %}
    <div class="featured-case-study">
    
-      <div class="featured-case-study__image" data-interchange="
-         [{{page.featured_case_study.image_name}}{{page.featured_case_study.image_extension}}, small], 
-         [{{page.featured_case_study.image_name}}{{site.med_prefix}}{{page.featured_case_study.image_extension}}, medium], 
-         [{{page.featured_case_study.image_name}}{{site.large_prefix}}{{page.featured_case_study.image_extension}}, large]
-      ">
+      <div class="featured-case-study__image" style="background-image: url({{page.featured_case_study.image_path}})">
       </div>
 
       <div class="case-study__label">{{ page.featured_case_study.label}}</div>
@@ -45,10 +38,7 @@ case_studies:
    
    <div class="case-study-grid">
    {% for item in page.case_studies %}
-      <a href="{{item.case_study_link}}" class="case-study" data-interchange="
-         [{{item.image_name}}{{item.image_extension}}, small], 
-         [{{item.image_name}}{{site.med_prefix}}{{item.image_extension}}, medium], 
-         [{{item.image_name}}{{site.large_prefix}}{{item.image_extension}}, large]">
+      <a href="{{item.case_study_link}}" class="case-study" style="background-image: url({{item.image_path}})">
          <div class="case-study__label">{{ item.label}}</div>
       </a>
    {% endfor %}
