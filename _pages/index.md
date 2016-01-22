@@ -61,7 +61,7 @@ snapshots:
    <header class="header header--dark">
       <h1>Snapshots.</h1>
       <span class="subheading">
-         Here's a few shapshots of our current projects to give you a good look at our visual style.
+         Here are a few shapshots of our current projects to give you a good look at our visual style.
       </span>
    </header>
    
