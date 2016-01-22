@@ -8,8 +8,9 @@
 
 $(document).foundation();
 
-cf.assets.init();
 
 //
 // Custom JS
 // --------------------------------------------------
+
+cf.assets.init();

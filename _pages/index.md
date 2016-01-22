@@ -21,6 +21,9 @@ snapshots:
   - thumbnail_path: /assets/img/portfolio/more/avectous-concept.jpg
     fullsize_path: /assets/img/portfolio/more/fullsize/avectous-concept.jpg
     name: Avectous Logo
+  - thumbnail_path: /assets/img/portfolio/more/avectous-mark.jpg
+    fullsize_path: /assets/img/portfolio/more/fullsize/avectous-mark.jpg
+    name: Avectous Mark
 ---
 
 <header class="header header--dark">
@@ -64,7 +67,8 @@ snapshots:
    
    <div class="shapshots-grid">
    {% for item in page.snapshots %}
-      <a class="shapshots-grid__snapshot" style="background-image: {{item.thumbnail_path}}">
+      <a class="shapshots-grid__snapshot">
+         <img src="{{item.thumbnail_path}}">
       </a>
    {% endfor %}
    </div>
