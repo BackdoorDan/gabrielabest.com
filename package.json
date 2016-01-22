@@ -1,7 +1,7 @@
 {
-  "name": "jekyll-foundation",
+  "name": "Cubicflow.com v3",
   "version": "0.1.0",
-  "description": "Starting point for a Jekyll site that uses Zurb Foundation's Sass.",
+  "description": "cubicflow.com website",
   "license": "MIT",
   "main": "gulpfile.js",
   "dependencies": {},
@@ -28,13 +28,10 @@
   "scripts": {
     "start": "gulp",
     "build": "gulp build --production",
-    "test": "gulp build"
+    "test": "gulp build --production"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/core77/jekyll-foundation.git"
-  },
-  "bugs": {
-    "url": "https://github.com/core77/jekyll-foundation/issues"
+    "url": "https://github.com/BackdoorDan/cubicflow.com.git"
   }
 }
