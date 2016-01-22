@@ -8,34 +8,33 @@ featured_case_study:
   label: ICONIC DISC case study
   case_study_link: ''
 case_studies:
-  - image_path: /assets/img/portfolio/cs-tfc.jpg
+  - image_path: assets/img/portfolio/cs-tfc.jpg
     label: THE FOOD CONCIERGE case study
     case_study_link: ''
-  - image_path: /assets/img/portfolio/cs-halo.jpg
+  - image_path: assets/img/portfolio/cs-halo.jpg
     label: HALO case study
     case_study_link: LINK HERE
 snapshots:
-  - thumbnail_path: /assets/img/portfolio/more/amiotek-mark.jpg
-    fullsize_path: /assets/img/portfolio/more/fullsize/amiotek-mark.jpg
+  - thumbnail_path: assets/img/portfolio/more/amiotek-mark.jpg
+    fullsize_path: assets/img/portfolio/more/fullsize/amiotek-mark.jpg
     name: Amiotek Logotype
-  - thumbnail_path: /assets/img/portfolio/more/avectous-concept.jpg
-    fullsize_path: /assets/img/portfolio/more/fullsize/avectous-concept.jpg
+  - thumbnail_path: assets/img/portfolio/more/avectous-concept.jpg
+    fullsize_path: assets/img/portfolio/more/fullsize/avectous-concept.jpg
     name: Avectous Logo
-  - thumbnail_path: /assets/img/portfolio/more/avectous-mark.jpg
-    fullsize_path: /assets/img/portfolio/more/fullsize/avectous-mark.jpg
+  - thumbnail_path: assets/img/portfolio/more/avectous-mark.jpg
+    fullsize_path: assets/img/portfolio/more/fullsize/avectous-mark.jpg
     name: Avectous Mark
 ---
 
-<header class="header header--dark">
-   <h1>Design. Web. Brand. UI/X.</h1>
-   <span class="subheading">
-      We are Cubicflow. We create brands and digital experiences.
-   </span>
-</header>
-
 <main>
 
-
+   <header class="header header--dark">
+      <h1>Design. Web. Brand. UI/X.</h1>
+      <span class="subheading">
+         We are Cubicflow. We create brands and digital experiences.
+      </span>
+   </header>
+   
    {% if page.featured_case_study.image_path %}
    <div class="featured-case-study">
    

@@ -20,9 +20,9 @@ exclude: [
     'npm-debug.log',
     'package.json',
     'README.md',
-    'rev-manifest.json',
+    'rev-manifest.json'
     # additional excludes for production
-    'assets/css/app.css',
-    'assets/js/all.js',
-    'assets/img/**'
+#    'assets/css/app.css',
+#    'assets/js/all.js',
+#    'assets/img/**'
     ]
