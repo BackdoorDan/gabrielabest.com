@@ -11,20 +11,26 @@
 // --------------------------------------------------
 
 @font-face {
-    font-family: BrandonText-Light;
-    src: url(../fonts/BrandonText-Light.otf);
+  font-family: Gotham-Book;
+  src: url(../fonts/Gotham-Book.otf);
 }
 @font-face {
-    font-family: BrandonText-Regular;
-    src: url(../fonts/BrandonText-Regular.otf);
+  font-family: Gotham-BookItalic;
+  src: url(../fonts/Gotham-BookItalic.otf);
 }
 @font-face {
-    font-family: BrandonText-Medium;
-    src: url(../fonts/BrandonText-Medium.otf);
+  font-family: Gotham-Bold;
+  src: url(../fonts/Gotham-Bold.otf);
 }
- $font-family--light: 'BrandonText-Light', Helvetica, Roboto, Arial, sans-serif;
- $font-family--regular: 'BrandonText-Regular', Helvetica, Roboto, Arial, sans-serif;
- $font-family--bold: 'BrandonText-Medium', Helvetica, Roboto, Arial, sans-serif;
+@font-face {
+  font-family: MercuryTestG1-Bold;
+  src: url(../fonts/MercuryTestG1-Bold.otf);
+}
+
+$font-family--regular: 'Gotham-Book', Helvetica, Roboto, Arial, sans-serif;
+$font-family--bold: 'Gotham-Bold', Helvetica, Roboto, Arial, sans-serif;
+$font-family--italic: 'Gotham-BookItalic', Helvetica, Roboto, Arial, sans-serif;
+$font-family--alt: 'MercuryTestG1-Bold', Helvetica, Roboto, Arial, sans-serif;
 
 
 
@@ -37,7 +43,5 @@
 $black: #000;
 $white: #fff;
 
-$cf-blue: #37BEAC;
-$cf-orange: #F67161;
-$cf-grey-light: #A3A3A3;
-$cf-grey-dark: #1B1B1B;
+
+$red: #D2565A;

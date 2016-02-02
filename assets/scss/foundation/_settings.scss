@@ -57,8 +57,8 @@
 // $dark-gray: #8a8a8a;
 // $black: #0a0a0a;
 // $white: #fefefe;
- $body-background: $cf-grey-dark;
- $body-font-color: $white;
+ $body-background: $white;
+ $body-font-color: $black;
  $body-font-family: $font-family--regular;
 // $body-antialiased: true;
 // $global-margin: 1rem;
@@ -78,7 +78,7 @@
    xlarge: 1200px,
    xxlarge: 1440px,
  );
- $breakpoint-classes: (small medium large xlarge);
+ $breakpoint-classes: (small medium large);
 
 // 3. The Grid
 // -----------
@@ -95,7 +95,7 @@
 // 4. Base Typography
 // ------------------
 
- $header-font-family: $font-family--light;
+ $header-font-family: $font-family--alt;
 // $header-font-weight: $global-weight-normal;
 // $header-font-style: normal;
 // $font-family-monospace: Consolas, 'Liberation Mono', Courier, monospace;
