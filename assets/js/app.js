@@ -12,5 +12,3 @@ $(document).foundation();
 //
 // Custom JS
 // --------------------------------------------------
-
-cf.assets.init();

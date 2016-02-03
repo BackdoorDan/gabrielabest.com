@@ -1,3 +1,47 @@
 // --------------------------------------------------
 // Header Module
 // --------------------------------------------------
+
+.header {
+  
+  overflow: auto;
+  
+  &__profile {
+    margin-bottom: 30px;
+    width: 150px;
+    height: 150px;
+    
+    @include breakpoint(medium){
+      float: left;
+      margin-right: 40px;
+    }
+  }
+  
+  h1 {
+    @include breakpoint(medium){
+      margin-top: 15px;
+    } 
+  }
+  
+  .break {
+    display: inline-block;
+  }
+  .show-med {
+    display: none;
+    
+    @include breakpoint(medium){
+      display: inline;
+    }
+  }
+  
+  &__subheading {
+    font-size: 16px;
+    line-height: 20px;
+    color: $light-grey;
+    margin-top: 10px;
+  }
+  
+  &--large {
+    
+  }
+}

@@ -20,17 +20,17 @@
 }
 @font-face {
   font-family: Gotham-Bold;
-  src: url(../fonts/Gotham-Bold.otf);
+  src: url(../fonts/GothamBold.otf);
 }
 @font-face {
-  font-family: MercuryTestG1-Bold;
-  src: url(../fonts/MercuryTestG1-Bold.otf);
+  font-family: MercuryTextG1-Bold;
+  src: url(../fonts/MercuryTextG1-Bold.otf);
 }
 
 $font-family--regular: 'Gotham-Book', Helvetica, Roboto, Arial, sans-serif;
 $font-family--bold: 'Gotham-Bold', Helvetica, Roboto, Arial, sans-serif;
 $font-family--italic: 'Gotham-BookItalic', Helvetica, Roboto, Arial, sans-serif;
-$font-family--alt: 'MercuryTestG1-Bold', Helvetica, Roboto, Arial, sans-serif;
+$font-family--alt: 'MercuryTextG1-Bold', Helvetica, Roboto, Arial, sans-serif;
 
 
 
@@ -45,3 +45,12 @@ $white: #fff;
 
 
 $red: #D2565A;
+$orange: #F98983;
+$purple: #D4B2C4;
+$blue: #A3C1DA;
+$green: #6CC3BB;
+
+$dark-grey: #353443;
+$medium-grey: #656565;
+$light-grey: #777777;
+$near-white: #F4F3F2;
