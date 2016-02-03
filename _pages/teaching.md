@@ -1,8 +1,8 @@
 ---
 permalink: teaching/
-layout: index
-title: Research
-page_color: orange
+layout: default
+title: Teaching
+page_color: purple
 description: Page desc here
 ---
 
