@@ -1,7 +1,7 @@
 ---
 permalink: research/
 layout: default
-title: Profile
+title: Research
 page_color: red
 description: Page desc here
 ---
