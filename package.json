@@ -1,7 +1,7 @@
 {
-  "name": "cubicflow.com-v3",
+  "name": "gabrielabest.com",
   "version": "0.1.0",
-  "description": "cubicflow.com website",
+  "description": "gabrielabest.com website",
   "license": "MIT",
   "main": "gulpfile.js",
   "dependencies": {
@@ -35,6 +35,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/BackdoorDan/cubicflow.com.git"
+    "url": "https://github.com/BackdoorDan/gabrielabest.com.git"
   }
 }

@@ -1,10 +1,4 @@
-# Jekyll Foundation
-
-[![Build Status](https://travis-ci.org/core77/jekyll-foundation.svg)](https://travis-ci.org/core77/jekyll-foundation)
-[![devDependencies](https://david-dm.org/core77/jekyll-foundation/dev-status.svg)](https://david-dm.org/core77/jekyll-foundation#info=devDependencies)
-[![Join the chat at https://gitter.im/core77/jekyll-foundation](https://badges.gitter.im/core77/jekyll-foundation.svg)](https://gitter.im/core77/jekyll-foundation?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-Quickstart your Jekyll (v3) project with Zurb Foundation for Sites (v6, sass).
+## gabrielabest.com
 
 Build process: Gulp  
 Asset management: Bower and Composer  
@@ -12,7 +6,7 @@ Deployment: Make and rsync.
 
 ## System Preparation
 
-To use this starter project, you'll need the following things installed on your machine.
+Develop on this project, you'll need the following things installed on your machine.
 
 ### Required
 [Ruby and Ruby Gems](https://rvm.io/rvm/install)  
@@ -25,8 +19,6 @@ To use this starter project, you'll need the following things installed on your 
 
 ### Optional  
 [Git](https://git-scm.com)  
-[Composer](https://getcomposer.org) (installs PHPMailer)   
-[Make](https://www.gnu.org/software/make) (used with rsync for deploying)
 
 
 ## Local Installation
@@ -34,8 +26,7 @@ To use this starter project, you'll need the following things installed on your 
 Git clone this repository, or download it into a directory of your choice. Inside the directory run  
 1. `bower install` (reference: .bowerrc and bower.json)  
 2. `npm install` (reference: package.json)  
-3. `bundle install` (reference: Gemfile and Gemfile.lock)  
-4. `composer install` (optional, reference: composer.json and composer.lock)
+3. `bundle install` (reference: Gemfile and Gemfile.lock)
 
 ## Usage
 
@@ -63,17 +54,3 @@ We don't want to include unused CSS or JavaScript.
 Customize the variables used by Foundation in the settings file located in /assets/scss/foundation/.
 
 Place your custom sass in the subfolders of /assets/scss/. These folders follow the [SMACSS](https://smacss.com/) architecture. This should be the most scalable solution - from small to very large sites.
-
-### Deploy your site
-Rsync is used here to sync our local _site with the remote host. Adjust the SSH-USER, SSH-HOST and REMOTE-PATH in the Makefile.
-
-Be careful with these settings since rsync is set to **delete** the files on the remote path!
-
-Deploy with `make deploy`.
-
-## Restrictions
-
-### compress.html layout
-
-Inline JavaScript can become broken where // comments used. Please remove the comments or change to /**/ style.  
-[compress.html Docs](http://jch.penibelst.de/)
