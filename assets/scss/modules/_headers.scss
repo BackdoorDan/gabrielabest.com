@@ -24,7 +24,11 @@
   }
   
   .break {
-    display: inline-block;
+    display: block;
+    margin-top: 3px;
+    @include breakpoint(medium){
+      display: inline-block;
+    }
   }
   .show-med {
     display: none;
