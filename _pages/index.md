@@ -15,9 +15,9 @@ description: Page desc here
   <h1>Gabriela Best</h1>
   
   <span class="header__subheading">
-  <span class="break">Assistant Professor</span><span class="show-med"> - </span>
-  <span class="break">Department of Economics</span><span class="show-med">,</span>
-  <span class="break">University of California - Fullerton</span>
+    <span class="break">Assistant Professor:</span>
+    <span class="break">Department of Economics,</span>
+    <span class="break">University of California Fullerton</span>
   </span>
   
 </header>
