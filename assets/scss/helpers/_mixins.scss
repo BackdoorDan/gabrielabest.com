@@ -3,7 +3,7 @@
 // --------------------------------------------------
 
 @mixin container() {
-  max-width: 1100px;
+  max-width: 1000px;
   margin: 0px auto;
   width: 90%;
   
@@ -11,7 +11,7 @@
     width: 90%;
   }
   @include breakpoint(large){
-    width: 80%;
+    width: 85%;
   }
 }
 

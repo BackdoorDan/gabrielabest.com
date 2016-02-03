@@ -15,11 +15,23 @@
       float: left;
       margin-right: 40px;
     }
+    @include breakpoint(large){
+      width: 200px;
+      height: 200px;
+    }
   }
   
   h1 {
+    
+    font-size: 36px;
+    
     @include breakpoint(medium){
       margin-top: 15px;
+      font-size: 38px;
+    }
+    @include breakpoint(large){
+      margin-top: 38px;
+      font-size: 48px;
     } 
   }
   

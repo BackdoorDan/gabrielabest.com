@@ -5,5 +5,62 @@
 
 .container {
   @include container();
-  margin-top: 50px;
+  margin-top: 30px;
+  
+  @include breakpoint(medium){
+    margin-top: 40px;
+  }
+  
+  @include breakpoint(large){
+    margin-top: 50px;
+  }
+}
+
+.page-content {
+  
+  font-size: 12px;
+  
+  @include breakpoint(medium){
+    font-size: 13px;
+  }
+  
+  @include breakpoint(large){
+    font-size: 14px;
+  }
+  
+  h1 {
+    display: block;
+    width: 100%;
+    padding-top: 30px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    border-top: 1px solid #BABABA 
+  }
+  
+  h2 {
+    margin-bottom: 20px;
+    margin-top: 30px;
+  }
+  
+  blockquote {
+    font-family: $font-family--italic;
+    font-size: 11px;
+    border-left: none;
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 30px;
+    
+    @include breakpoint(medium){
+      font-size: 12px;
+    }
+    @include breakpoint(large){
+      font-size: 13px;
+    }
+  }
+  
+  a {
+    font-family: $font-family--bold;
+  }
+
 }
