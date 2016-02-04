@@ -83,6 +83,17 @@
 
 .footer {
   @include container();
-  margin-top: 50px;
+  margin-top: 60px;
   text-align: center;
+  font-family: font-family--alt;
+  font-size: 13px;
+  margin-bottom: 40px;
+  color: #BABABA;
+  line-height: 1.7;
+  
+  &__logo {
+    display: block;
+    margin: 0px auto;
+    margin-bottom: 15px;
+  }
 }
