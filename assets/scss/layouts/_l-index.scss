@@ -62,5 +62,27 @@
   a {
     font-family: $font-family--bold;
   }
+  
+  
+  blockquote {
+    .expand-quote {
+      background-image: url(../img/more-icon.svg);
+      background-repeat: no-repeat;
+      background-position: right top 2px;
+      padding-right: 15px;
+    }
+    .colapse-quote {
+      background-image: url(../img/less-icon.svg);
+      background-repeat: no-repeat;
+      background-position: right top 2px;
+      padding-right: 15px;
+    }
+  }
 
+}
+
+.footer {
+  @include container();
+  margin-top: 50px;
+  text-align: center;
 }

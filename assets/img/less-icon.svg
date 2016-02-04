@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="11px" height="11px" viewBox="0 0 11 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.1 (25234) - http://www.bohemiancoding.com/sketch -->
+    <title>plus</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="research-desktop" sketch:type="MSArtboardGroup" transform="translate(-326.000000, -782.000000)" fill="#656565">
+            <g id="research" sketch:type="MSLayerGroup" transform="translate(220.000000, 204.000000)">
+                <g id="body-text" transform="translate(0.000000, 170.000000)" sketch:type="MSShapeGroup">
+                    <path d="M114.25,413.25 L111.75,413.25 L111.75,410.7505 C111.75,410.612 111.63825,410.5 111.5,410.5 C111.36175,410.5 111.25,410.612 111.25,410.7505 L111.25,413.25 L108.75,413.25 C108.61175,413.25 108.5,413.362 108.5,413.5 C108.5,413.6385 108.61175,413.7505 108.75,413.7505 L111.25,413.7505 L111.25,416.25 C111.25,416.38825 111.36175,416.5 111.5,416.5 C111.63825,416.5 111.75,416.38825 111.75,416.25 L111.75,413.7505 L114.25,413.7505 C114.38825,413.7505 114.5,413.6385 114.5,413.5 C114.5,413.362 114.38825,413.25 114.25,413.25 M111.5,408 C108.4625,408 106,410.46275 106,413.5 C106,416.5375 108.4625,419 111.5,419 C114.5375,419 117,416.5375 117,413.5 C117,410.46275 114.5375,408 111.5,408 M111.5,418.5 C108.73875,418.5 106.5,416.2615 106.5,413.5 C106.5,410.73875 108.73875,408.5 111.5,408.5 C114.2615,408.5 116.5,410.73875 116.5,413.5 C116.5,416.2615 114.2615,418.5 111.5,418.5" id="plus" transform="translate(111.500000, 413.500000) rotate(-315.000000) translate(-111.500000, -413.500000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

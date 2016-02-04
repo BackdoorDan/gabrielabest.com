@@ -16,12 +16,14 @@ $(document).foundation();
 
 !function(){
   
+  var letterLimit = 300;
+  
   var Blockquote = function(elem){
     this.elem = elem;
     this.fullTxt = elem.innerHTML.replace(/<\/p>/gi, '');
-    this.shortTxt = this.fullTxt.slice(0,300);
-    this.moreBtnHTML = '<a class="expand-quote">...more +</a>';
-    this.lessBtnHTML = '<a class="colapse-quote">...less x</a>';
+    this.shortTxt = this.fullTxt.slice(0,letterLimit);
+    this.moreBtnHTML = '<a class="expand-quote">...more</a>';
+    this.lessBtnHTML = '<a class="colapse-quote">...less</a>';
     this.showLess();
   };
   
@@ -37,6 +39,8 @@ $(document).foundation();
   };
   
   Blockquote.prototype.showLess = function(){
+    
+    if(this.fullTxt.length < letterLimit) return;
     
     this.elem.innerHTML = this.shortTxt + this.moreBtnHTML;
     
