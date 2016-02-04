@@ -40,7 +40,7 @@ $(document).foundation();
   
   Blockquote.prototype.showLess = function(){
     
-    if(this.fullTxt.length < letterLimit) return;
+    if(this.fullTxt.length < letterLimit + 40) return;
     
     this.elem.innerHTML = this.shortTxt + this.moreBtnHTML;
     

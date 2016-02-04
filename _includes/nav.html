@@ -15,15 +15,16 @@
 <div class="contact-bar">
   <div class="contact-bar__container">
     
-    <a class="contact-bar__link">
-      <img src="/assets/img/phone-icon.svg">(657) 278-2387
+    <a class="contact-bar__link" href="tel:{{site.data.contact.phone_number}}">
+      <img src="/assets/img/phone-icon.svg">
+      {{site.data.contact.phone_number}}
     </a>
     
-    <a class="contact-bar__link">
-      <img src="/assets/img/mail-icon.svg">gbest@fullerton.edu
+    <a class="contact-bar__link" href="mailto:{{site.data.contact.email}}">
+      <img src="/assets/img/mail-icon.svg">{{site.data.contact.email}}
     </a>
     
-    <a class="contact-bar__link contact-bar__link--vcard">
+    <a class="contact-bar__link contact-bar__link--vcard" href="mailto:{{site.data.contact.vcard_path}}">
       <img src="/assets/img/download-icon.svg">download vCard
     </a>
     
