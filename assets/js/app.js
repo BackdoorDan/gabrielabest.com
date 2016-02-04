@@ -59,3 +59,10 @@ $(document).foundation();
   }
   
 }();
+
+$('.mobile-nav__expand').on('click', function(){
+  $('.mobile-nav-expanded').addClass('active');
+});
+$('.mobile-nav-expanded__close').on('click', function(){
+  $('.mobile-nav-expanded').removeClass('active');
+});

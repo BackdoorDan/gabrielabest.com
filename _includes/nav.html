@@ -12,6 +12,31 @@
 </div>
 
 
+<nav class="mobile-nav-expanded">
+  
+  <div class="mobile-nav-expanded__top-bar">
+    
+    <a href="#" class="mobile-nav-expanded__close">
+      <img src="/assets/img/close-icon.svg">
+    </a>
+
+    <div class="mobile-nav-expanded__logo">
+      <img src="/assets/img/logo-white.svg">
+    </div>
+    
+  </div>
+  
+  <div class="mobile-nav-expanded__links">
+    <a href="/" class="mobile-nav-expanded__links__link mobile-nav-expanded__links__link--red {% if page.url == '/' %}active{% endif %}">Profile</a>
+    <a href="/research" class="mobile-nav-expanded__links__link mobile-nav-expanded__links__link--orange {% if page.url == '/research/' %}active{% endif %}">Research</a>
+    <a href="/teaching" class="mobile-nav-expanded__links__link mobile-nav-expanded__links__link--purple {% if page.url == '/teaching/' %}active{% endif %}">Teaching</a>
+    <a href="#" class="mobile-nav-expanded__links__link mobile-nav-expanded__links__link--blue">Vitae PDF</a>
+    <a href="#" class="mobile-nav-expanded__links__link mobile-nav-expanded__links__link--green">CSUF Page</a>
+  </div>
+  
+</nav>
+
+
 <div class="contact-bar">
   <div class="contact-bar__container">
     

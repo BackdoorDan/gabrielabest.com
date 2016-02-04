@@ -21,10 +21,14 @@
     width: 150px;
     float: left;
     color: $white;
-    padding-top: 9px;
+    padding-top: 11px;
+    
+    &:hover {
+      color: $white;
+    }
     
     img {
-      margin-top: -2px;
+      margin-top: -3px;
       margin-right: 4%; 
     }
   }
@@ -32,8 +36,99 @@
   &__logo {
     display: block;
     float: right;
-    padding-top: 8px;
+    padding-top: 9px;
   }
+}
+
+
+.mobile-nav-expanded {
+  
+  position: fixed;
+  top: 0px;
+  height: 0%;
+  overflow: hidden;
+  width: 100%;
+  transition: height 0.3s;
+  
+  &.active {
+    height: 100%;
+  }
+  
+  &__top-bar {
+    height: 44px;
+    background-color: $dark-grey;
+    padding: 0% 5% 0% 5%;
+  }
+  
+  &__logo {
+    display: block;
+    float: right;
+    padding-top: 9px;
+  }
+  
+  &__close {
+    float: left;
+    padding-top: 9px;
+  }
+  
+  &__links {
+    position: relative;
+    width: 100%;
+    height: calc(100% - 44px);
+    margin-bottom: 44px;
+    overflow: hidden;
+    
+    &__link {
+      
+      display: flex;
+      justify-content:center;
+      align-content:center;
+      flex-direction:column;
+      position: relative;
+      width: 100%;
+      height: 20%;
+      color: $white;
+      transition: all 0.3s;
+      font-size: 18px;
+      text-align: center;
+      
+      &:hover {
+        color: $white;
+      }
+      
+      &--red {
+        background-color: $red;
+        &:hover {
+          background-color: scale-color($red, $lightness: -7%);
+        }
+      }
+      &--orange {
+        background-color: $orange;
+        &:hover {
+          background-color: scale-color($orange, $lightness: -7%);
+        }
+      }
+      &--purple {
+        background-color: $purple;
+        &:hover {
+          background-color: scale-color($purple, $lightness: -7%);
+        }
+      }
+      &--blue {
+        background-color: $blue;
+        &:hover {
+          background-color: scale-color($blue, $lightness: -7%);
+        }
+      }
+      &--green {
+        background-color: $green;
+        &:hover {
+          background-color: scale-color($green, $lightness: -7%);
+        }
+      }
+    }
+  }
+  
 }
 
 
