@@ -2,7 +2,7 @@
 permalink: research/
 layout: default
 title: Research
-page_color: red
+page_color: orange
 description: Page desc here
 ---
 
