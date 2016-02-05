@@ -17,6 +17,8 @@ $(document).foundation();
 !function(){
   
   var letterLimit = 300;
+  var blockquotes = document.querySelectorAll('blockquote');
+  if (window.location.host === "app.cloudcannon.com") return;
   
   var Blockquote = function(elem){
     this.elem = elem;
@@ -52,7 +54,6 @@ $(document).foundation();
     });
   };
   
-  var blockquotes = document.querySelectorAll('blockquote');
   
   for (var i = 0; i < blockquotes.length; i++){
     var newBlockquote = new Blockquote(blockquotes[i]);
