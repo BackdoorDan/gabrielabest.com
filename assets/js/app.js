@@ -66,3 +66,7 @@ $('.mobile-nav__expand').on('click', function(){
 $('.mobile-nav-expanded__close').on('click', function(){
   $('.mobile-nav-expanded').removeClass('active');
 });
+
+$('.mobile-nav-expanded__links__link').on('click', function(){
+  $('.mobile-nav-expanded').removeClass('active');
+});
