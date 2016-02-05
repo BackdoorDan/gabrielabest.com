@@ -4,6 +4,6 @@ contact:
   vcard_path: ../assets/
 
 site:
-  vitae_url: http://www.google.com
+  vitae_path: ../assets/
   csuf_url: http://www.google.com
   copyright_text: © Copyright 2016 Gabriela Best.  All rights reserved
