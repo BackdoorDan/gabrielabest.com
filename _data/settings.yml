@@ -3,6 +3,6 @@ contact:
   email: gbest@fullerton.edu
   vcard_path: /assets/gabriela best phd.vcf
 site:
-  vitae_path: ../assets/
+  vitae_path: /assets/cvgbestcsuf_january_2016.pdf
   csuf_url: 'http://www.google.com'
   copyright_text: © Copyright 2016 Gabriela Best.  All rights reserved
