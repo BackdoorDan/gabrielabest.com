@@ -1,9 +1,8 @@
 contact:
   phone_number: (657) 278-2387
   email: gbest@fullerton.edu
-  vcard_path: ../assets/
-
+  vcard_path: /assets/gabriela best phd.vcf
 site:
   vitae_path: ../assets/
-  csuf_url: http://www.google.com
+  csuf_url: 'http://www.google.com'
   copyright_text: © Copyright 2016 Gabriela Best.  All rights reserved
