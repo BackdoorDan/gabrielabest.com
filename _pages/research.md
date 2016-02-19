@@ -8,15 +8,19 @@ description: Page desc here
 
 # Publications
 
-[Fear of Floating or Monetary Policy as Usual? A Structural Analysis of Mexico's Monetary Policy](/assets/mdacceptedgbestgi.pdf) The North American Journal of Economics and Finance, Volume 24, Pages 45–62, January 2013.
+[Policy Preferences and Policymakers’ Beliefs: The Great Inflation](/assets/mdacceptedgbestgi.pdf) Macroeconomic Dynamics, Forthcoming.
 
-[Fear of Floating or Monetary Policy as Usual? A Structural Analysis of Mexico's Monetary Policy](http://www.sciencedirect.com/science/journal/10629408) The North American Journal of Economics and Finance, Volume 24, Pages 45–62, January 2013.
+[Monetary Policy and News Shocks: Are Taylor Rules Forward-looking?](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2371965) (with Pavel Kapinos), 2016. The B.E. Journal of Macroeconomics. ISSN (Online) 1935-1690, ISSN (Print) 2194-6116, [DOI](dx.doi.org/10.1515/bejm-2014-0161), [Other Version (SSRN)](papers.ssrn.com/sol3/papers.cfm?abstract_id=2371965)
+
+[A New Keynesian Model with Staggered Price and Wage Setting under Learning](/assets/gbestjedcrevisionfinal42015.pdf)&nbsp;2015. Journal of Economic Dynamics and Control, Vol. 57, 96-111.
+
+[Fear of Floating or Monetary Policy as Usual? A Structural Analysis of Mexico's Monetary Policy](http://www.sciencedirect.com/science/article/pii/S1062940812000514)&nbsp;2013. North American Journal of Economics and Finance, 24, 45-62.
 
 # Working Papers
 
-[Policy Preferences and Policymakers’ Beliefs: The Great Inflation](/assets/gbestjedcrevisionfinal42015.pdf) The North American Journal of Economics and Finance, Volume 24, Pages 45–62, January 2013.
+**Forward-looking Taylor Rules, Real Time Forecast and the Price Puzzle**&nbsp;(with Pavel Kapinos).
 
-[Policy Preferences and Policymakers’ Beliefs: The Great Inflation](http://www.sciencedirect.com/science/article/pii/S1062940812000514) The North American Journal of Economics and Finance, Volume 24, Pages 45–62, January 2013.
+**Policymakers’ Beliefs under Regime Switching** (with Joonyoung Hur).
 
 # Work in Progress
 
