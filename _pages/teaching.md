@@ -8,14 +8,18 @@ description: Page desc here
 
 # Classes
 
-**Class Name Goes Here** [View Sylabus](www.google.com)
+**Monetary Economics Graduate Course (Econ 529)**
 
->Lorem ipsum dolor sit amet, consectetur adipiscing elitaugue sapien, tincidunt eget massa fermentum, rutrum suscipit metus. Phasellus pellentesque aliquam lobortis. Integer id mi dapibus, bibendum purus et, molestie justo. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+> Advanced treatment of monetary policy issues. Topics may include the relevance of monetary policy, new Keynesian Economics, monetary policy shocks, price rigidities, optimal monetary policy, and monetary policy design.
 
-**Class Name Goes Here** [View Sylabus](www.google.com)
+**Introduction to Econometrics (Econ 440)**
 
->Lorem ipsum dolor sit amet, consectetur adipiscing elitaugue sapien, tincidunt eget massa fermentum, rutrum suscipit metus. Phasellus pellentesque aliquam lobortis. Integer id mi dapibus, bibendum purus et, molestie justo. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+> Economic measurement: specification and estimation of econometric models; statistical methods in economic research.
 
-**Class Name Goes Here** [View Sylabus](www.google.com)
+**Principles of Macroeconomics (Econ 202)**
 
->Lorem ipsum dolor sit amet, consectetur adipiscing elitaugue sapien, tincidunt eget massa fermentum, rutrum suscipit metus. Phasellus pellentesque aliquam lobortis. Integer id mi dapibus, bibendum purus et, molestie justo. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+> Principles of macroeconomic analysis and policy, unemployment and inflation, financial institutions, international trade, economic growth, comparative systems.&nbsp;
+
+**Intermediate Macroeconomics (Econ 320)**
+
+> Determinants of the level of national income, employment and prices, and monetary and fiscal policies.&nbsp;
