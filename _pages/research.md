@@ -25,7 +25,3 @@ description: Page desc here
 # Work in Progress
 
 **Monetary Policy Perceptions** (with Fabio Milani)
-
-**Delphic vs. Odyssean Monetary Policy and the Price Puzzle** (with P. Kapinos)
-
-**Policymakers’ Beliefs under Regime Switching** (with Joon Hur)
