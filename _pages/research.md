@@ -10,7 +10,7 @@ description: Page desc here
 
 [Policy Preferences and Policymakers’ Beliefs: The Great Inflation](/assets/mdacceptedgbestgi.pdf) Macroeconomic Dynamics, Forthcoming.
 
-[Monetary Policy and News Shocks: Are Taylor Rules Forward-looking?](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2371965) (with Pavel Kapinos), 2016. The B.E. Journal of Macroeconomics. ISSN (Online) 1935-1690, ISSN (Print) 2194-6116, [DOI](dx.doi.org/10.1515/bejm-2014-0161), and&nbsp;[Other Version (SSRN)](papers.ssrn.com/sol3/papers.cfm?abstract_id=2371965)
+[Monetary Policy and News Shocks: Are Taylor Rules Forward-looking?](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2371965) (with Pavel Kapinos), 2016. The B.E. Journal of Macroeconomics. ISSN (Online) 1935-1690, ISSN (Print) 2194-6116. ([DOI version](dx.doi.org/10.1515/bejm-2014-0161))
 
 [A New Keynesian Model with Staggered Price and Wage Setting under Learning](/assets/gbestjedcrevisionfinal42015.pdf)&nbsp;2015. Journal of Economic Dynamics and Control, Vol. 57, 96-111.
 
