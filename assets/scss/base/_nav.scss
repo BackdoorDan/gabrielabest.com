@@ -44,6 +44,7 @@
 .mobile-nav-expanded {
   
   position: fixed;
+  z-index: 10;
   top: 0px;
   height: 0%;
   overflow: hidden;
