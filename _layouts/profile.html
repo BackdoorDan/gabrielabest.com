@@ -8,6 +8,21 @@
 <main class="container">
 {% include components/header-large.html %}
   
+  <div class="mobile-contact">
+    <a class="mobile-contact__link" href="tel:{{site.data.settings.contact.phone_number}}">
+      <img src="/assets/img/phone-icon--dark.svg">
+      {{site.data.settings.contact.phone_number}}
+    </a>
+    
+    <a class="mobile-contact__link" href="mailto:{{site.data.settings.contact.email}}">
+      <img src="/assets/img/mail-icon--dark.svg">{{site.data.settings.contact.email}}
+    </a>
+    
+    <a class="mobile-contact__link mobile-contact__link--vcard" href="{{site.data.settings.contact.vcard_path}}">
+      <img src="/assets/img/download-icon--dark.svg">download vCard
+    </a>
+  </div>
+  
   <div class="page-content editable">
     {{ content }}
   </div>

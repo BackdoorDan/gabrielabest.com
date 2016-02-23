@@ -201,6 +201,7 @@
       color: $white;
       transition: all 0.3s;
       font-size: 18px;
+      color: $white;
       
       @include breakpoint(large){
         font-size: 26px;
@@ -210,12 +211,17 @@
         height: 110px;
         line-height: 108px;
         font-family: $font-family--bold;
+        color: $white;
       }
       
       &:hover {
         color: $white;
         height: 110px;
         line-height: 108px;
+      }
+      
+      &:visited { 
+        color: $white;
       }
       
       &--red {
