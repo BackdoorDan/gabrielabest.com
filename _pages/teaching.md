@@ -1,10 +1,11 @@
 ---
-permalink: /teaching/
+permalink: teaching/
 layout: default
 title: Teaching
-page_color: purple
+page_color: '#800080'
 description: Page desc here
 ---
+
 
 # Classes
 
