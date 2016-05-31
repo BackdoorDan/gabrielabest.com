@@ -9,7 +9,7 @@ description: "Policy Preferences and Policymakers' Beliefs\nThe Great Inflation\
 
 # Publications
 
-[Policy Preferences and Policymakers’ Beliefs: The Great Inflation](/assets/mdacceptedgbestgi.pdf) Macroeconomic Dynamics, Forthcoming.
+[Policy Preferences and Policymakers’ Beliefs: The Great Inflation](/assets/mdacceptedgbestgi.pdf) Macroeconomic Dynamics, Forthcoming [DOI Version](http://journals.cambridge.org/action/displayAbstract?fromPage=online&amp;aid=10335066&amp;fulltextType=RA&amp;fileId=S1365100516000079)
 {: .present-before-paste}
 
 [Monetary Policy and News Shocks: Are Taylor Rules Forward-looking?](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2371965) (with [Pavel Kapinos](https://sites.google.com/site/pavelkapinos/)), 2016. The B.E. Journal of Macroeconomics (Contributions). ISSN (Online) 1935-1690, ISSN (Print) 2194-6116,&nbsp;[DOI version](http://www.degruyter.com/view/j/bejm.ahead-of-print/bejm-2014-0161/bejm-2014-0161.xml)
