@@ -19,7 +19,7 @@ description: "Policy Preferences and Policymakers' Beliefs\nThe Great Inflation\
 
 # Working Papers
 
-[**Policymakers’ Beliefs under Regime Switching**](/best_hur_learning_msdsge_7_16 (1) (1).pdf) (with [Joonyoung Hur](https://sites.google.com/site/joonyhur/)).
+[Bad Luck, Bad Policy, or Learning? A Markov-Switching Approach to Understanding Postwar U.S. Macroeconomic Dynamics](/best_hur_learning_msdsge_7_16 (1) (1).pdf)&nbsp;(with [Joonyoung Hur](https://sites.google.com/site/joonyhur/)).
 
 **Forward-looking Taylor Rules, Real Time Forecast and the Price Puzzle**&nbsp;(with [Pavel Kapinos](https://sites.google.com/site/pavelkapinos/)).
 
