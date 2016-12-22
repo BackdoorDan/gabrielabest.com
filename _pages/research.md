@@ -21,7 +21,7 @@ description: "Policy Preferences and Policymakers' Beliefs\nThe Great Inflation\
 
 [Bad Luck, Bad Policy, or Learning? A Markov-Switching Approach to Understanding Postwar U.S. Macroeconomic Dynamics&nbsp;](/best_hur_learning_msdsge_8_16_ej.pdf)(with [Joonyoung Hur](https://sites.google.com/site/joonyhur/)).
 
-[**Forward-looking Taylor Rules, Real Time Forecast and the Price Puzzle**](/fmp_rtf_ppG9_P7.pdf)&nbsp;(with [Pavel Kapinos](https://sites.google.com/site/pavelkapinos/)).
+[News, Real-time Forecasts, and the Price Puzzle](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2886190)&nbsp;(with [Pavel Kapinos](https://sites.google.com/site/pavelkapinos/)).
 
 # Work in Progress
 
