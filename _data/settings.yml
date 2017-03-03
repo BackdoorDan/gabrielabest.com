@@ -1,8 +1,8 @@
 contact:
-  phone_number: (657) 278-2387
+  phone_number:
   email: gbest@fullerton.edu
   vcard_path: /assets/gabriela best phd.vcf
 site:
-  vitae_path: /assets/cvgbestcsuf_january_2016.pdf
+  vitae_path: /assets/CV_February_2017_S.pdf
   csuf_url: 'http://business.fullerton.edu/Department/Economics/?ID=BestGabr#EconomicsFacultyInfo?user=gbest'
-  copyright_text: © Copyright 2016 Gabriela Best.  All rights reserved
+  copyright_text: © Copyright 2017 Gabriela Best.  All rights reserved
