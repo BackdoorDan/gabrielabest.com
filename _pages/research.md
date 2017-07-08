@@ -19,7 +19,7 @@ description: "Policy Preferences and Policymakers' Beliefs\nThe Great Inflation\
 
 # Working Papers
 
-[Bad Luck, Bad Policy, or Learning? A Markov-Switching Approach to Understanding Postwar U.S. Macroeconomic Dynamics&nbsp;](/best_hur_learning_msdsge_8_16_ej.pdf)(with [Joonyoung Hur](https://sites.google.com/site/joonyhur/)).
+[Bad Luck, Bad Policy, or Learning? A Markov-Switching Approach to Understanding Postwar U.S. Macroeconomic Dynamics&nbsp;](/Best_Hur_6_30.pdf)(with [Joonyoung Hur](https://sites.google.com/site/joonyhur/)).
 
 [News, Real-time Forecasts, and the Price Puzzle](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2886190)&nbsp;(with [Pavel Kapinos](https://sites.google.com/site/pavelkapinos/)).
 
