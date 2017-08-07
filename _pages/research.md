@@ -3,7 +3,14 @@ permalink: research/
 layout: default
 title: Research
 page_color: '#ffa500'
-description: "Policy Preferences and Policymakers' Beliefs\nThe Great Inflation\nTaylor Rule\nNews Shocks\nFear of Floating\nLearning \nMonetary Policy"
+description: |-
+  Policy Preferences and Policymakers' Beliefs
+  The Great Inflation
+  Taylor Rule
+  News Shocks
+  Fear of Floating
+  Learning 
+  Monetary Policy
 ---
 
 
@@ -22,6 +29,8 @@ description: "Policy Preferences and Policymakers' Beliefs\nThe Great Inflation\
 [Bad Luck, Bad Policy, or Learning? A Markov-Switching Approach to Understanding Postwar U.S. Macroeconomic Dynamics&nbsp;](/Best_Hur_6_30_17.pdf)(with [Joonyoung Hur](https://sites.google.com/site/joonyhur/)). [SSRN copy here.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2803020)&nbsp;
 
 [News, Real-time Forecasts, and the Price Puzzle](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2886190)&nbsp;(with [Pavel Kapinos](https://sites.google.com/site/pavelkapinos/)).
+
+[Is the Fed's News Perception Different from the Private Sector's?](/News_SPF_GB_final.pdf) (with [Pavel Kapinos](https://sites.google.com/site/pavelkapinos/)).
 
 # Work in Progress
 
