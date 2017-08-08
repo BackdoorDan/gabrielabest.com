@@ -30,7 +30,7 @@ description: |-
 
 [News, Real-time Forecasts, and the Price Puzzle](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2886190)&nbsp;(with [Pavel Kapinos](https://sites.google.com/site/pavelkapinos/)).
 
-[Is the Fed's News Perception Different from the Private Sector's?](/News_SPF_GB_final.pdf) (with [Pavel Kapinos](https://sites.google.com/site/pavelkapinos/)).
+[Is the Fed’s News Perception Different from the Private Sector’s?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3014998) (with [Pavel Kapinos](https://sites.google.com/site/pavelkapinos/)).&nbsp;
 
 # Work in Progress
 
