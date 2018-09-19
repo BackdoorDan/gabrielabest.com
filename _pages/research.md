@@ -13,7 +13,6 @@ description: |-
   Monetary Policy
 ---
 
-
 # Publications
 
 [Policy Preferences and Policymakers’ Beliefs: The Great Inflation](/assets/mdacceptedgbestgi.pdf)&nbsp;2017. Macroeconomic Dynamics, Vol. 21 (8), pp. 1957-1995. &nbsp;[DOI Version](http://journals.cambridge.org/action/displayAbstract?fromPage=online&amp;aid=10335066&amp;fulltextType=RA&amp;fileId=S1365100516000079)
@@ -24,14 +23,14 @@ description: |-
 
 [Fear of Floating or Monetary Policy as Usual? A Structural Analysis of Mexico’s Monetary Policy](http://www.sciencedirect.com/science/article/pii/S1062940812000514)&nbsp;2013. North American Journal of Economics and Finance, 24, 45-62.
 
+[Is the Fed’s News Perception Different from the Private Sector’s?](/News_SPF_GB_AErevision_pk1_GB1.pdf) (with [Pavel Kapinos](https://sites.google.com/site/pavelkapinos/)). forthcoming in Applied Economics.&nbsp;
+
 # Working Papers
 
 [Bad Luck, Bad Policy, or Learning? A Markov-Switching Approach to Understanding Postwar U.S. Macroeconomic Dynamics&nbsp;](/Best_Hur_6_30_17.pdf)(with [Joonyoung Hur](https://sites.google.com/site/joonyhur/)). [SSRN copy here.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2803020)&nbsp;
 
 [News, Real-time Forecasts, and the Price Puzzle](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2886190)&nbsp;(with [Pavel Kapinos](https://sites.google.com/site/pavelkapinos/)).
 
-[Is the Fed’s News Perception Different from the Private Sector’s?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3014998) (with [Pavel Kapinos](https://sites.google.com/site/pavelkapinos/)).&nbsp;
-
-# Work in Progress
+Work in Progress
 
 **Monetary Policy Perceptions** (with [Fabio Milani](http://www.socsci.uci.edu/~fmilani/))
