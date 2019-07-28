@@ -17,7 +17,7 @@ description: |-
 
 [Bad Luck, Bad Policy, or Learning? A Markov-Switching Approach to Understanding Postwar U.S. Macroeconomic Dynamics](https://www.sciencedirect.com/science/article/pii/S0014292119301199){: target="_blank"} (with [Joonyoung Hur](https://sites.google.com/site/joonyhur/)) 2019.&nbsp; European Economic Review, Vol. 119, pp. 55-78. &nbsp;
 
-[Is the Fed’s News Perception Different from the Private Sector’s?](/News_SPF_GB_AErevision_pk1_GB1.pdf) (with [Pavel Kapinos](https://sites.google.com/site/pavelkapinos/)). Applied Economics, Vol. 51, Issue 16, pp 1694-1710.
+[Is the Fed’s News Perception Different from the Private Sector’s?](/News_SPF_GB_AErevision_pk1_GB1.pdf) (with [Pavel Kapinos](https://sites.google.com/site/pavelkapinos/)) 2019. Applied Economics, Vol. 51, Issue 16, pp 1694-1710.
 
 [Policy Preferences and Policymakers’ Beliefs: The Great Inflation](/assets/mdacceptedgbestgi.pdf)&nbsp;2017. Macroeconomic Dynamics, Vol. 21 (8), pp. 1957-1995. &nbsp;[DOI Version](http://journals.cambridge.org/action/displayAbstract?fromPage=online&amp;aid=10335066&amp;fulltextType=RA&amp;fileId=S1365100516000079)
 
